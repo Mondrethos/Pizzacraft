@@ -1,0 +1,41 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "TheDarkWizard",
+      "uniqueId": "6d54143a-cf48-422e-9cf9-782d6705641d"
+    },
+    "time": 1616644795363,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/gfNEmFi64i"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "TheDarkWizard",
+      "uniqueId": "6d54143a-cf48-422e-9cf9-782d6705641d"
+    },
+    "time": 1616580051152,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/L7alRv7d7V"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "TheDarkWizard",
+      "uniqueId": "6d54143a-cf48-422e-9cf9-782d6705641d"
+    },
+    "time": 1616579695823,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/K0uU1b3ZRW"
+    }
+  }
+]
