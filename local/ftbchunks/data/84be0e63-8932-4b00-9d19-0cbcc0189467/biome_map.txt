@@ -1,0 +1,8 @@
+#6EA byg:amaranth_fields
+#294 byg:enchanted_forest
+#4E7 byg:enchanted_forest_hills
+#678 byg:fresh_water_lake
+#6BF byg:guiana_shield
+#5FF minecraft:river
+#4D3 minecraft:swamp
+#06B byg:woodlands
