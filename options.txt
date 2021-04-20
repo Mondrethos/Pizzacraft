@@ -15,13 +15,13 @@ snooperEnabled:false
 showSubtitles:false
 touchscreen:false
 fullscreen:false
-bobView:true
+bobView:false
 toggleCrouch:false
 toggleSprint:false
 mouseSensitivity:0.5
 fov:0.0
 screenEffectScale:1.0
-fovEffectScale:1.0
+fovEffectScale:0.0
 gamma:0.0
 renderDistance:10
 entityDistanceScaling:1.0
@@ -117,8 +117,9 @@ key_key.dragon_down:key.keyboard.x
 key_key.dragon_change_view:key.keyboard.f7
 key_key.ftbultimine:key.keyboard.grave.accent
 key_key.lightoverlay.enable_overlay:key.keyboard.f7
-key_key.enchdesc.show:key.keyboard.left.shift
 key_key.ftbchunks.map:key.keyboard.m
+key_key.enchdesc.show:key.keyboard.left.shift
+key_key.dndmc.necklace_firball:key.keyboard.h
 key_bloodmagic.keybind.open_holding:key.keyboard.unknown
 key_keys.simplemagnets.toggle:key.keyboard.h
 key_key.immersivepetroleum.projector.flip:key.keyboard.m
@@ -136,6 +137,7 @@ key_key.integratedterminals.terminal.tab.previous:key.keyboard.tab:SHIFT
 key_key.integratedterminals.terminal.craftinggrid.clearplayer:key.keyboard.c:SHIFT
 key_key.integratedterminals.terminal.craftinggrid.clearstorage:key.keyboard.c
 key_key.integratedterminals.terminal.craftinggrid.balance:key.keyboard.b
+key_key.integratedterminals.terminal.portable.open:key.keyboard.c
 key_key.evilcraft.fart:key.keyboard.p
 key_key.evilcraft.exaltedCrafting:key.keyboard.c
 key_key.evilcraft.fart:key.keyboard.p
@@ -146,9 +148,10 @@ key_keybind.ironjetpacks.descend:key.keyboard.unknown
 key_keybind.ironjetpacks.increment_throttle:key.keyboard.period
 key_keybinding.ironjetpacks.decrement_throttle:key.keyboard.comma
 key_key.industrialforegoing.backpack.desc:key.keyboard.unknown
-key_key.botania_corporea_request:key.keyboard.c
+key_lordcraft.key.alternate_effect:key.keyboard.x
 key_key.curios.open.desc:key.keyboard.g
 key_key.tanknull.mode:key.keyboard.o
+key_key.botania_corporea_request:key.keyboard.c
 key_key.refinedstorage.focusSearchBar:key.keyboard.tab
 key_key.refinedstorage.clearGridCraftingMatrix:key.keyboard.x:CONTROL
 key_key.refinedstorage.openWirelessGrid:key.keyboard.unknown
@@ -167,19 +170,18 @@ key_key.mekanism.description:key.keyboard.n:SHIFT
 key_key.mekanism.module_tweaker:key.keyboard.backslash
 key_key.mekanism.key_boost:key.keyboard.left.control
 key_key.mekanism.key_hud:key.keyboard.h
-key_key.cgm.reload:key.keyboard.r
-key_key.cgm.unload:key.keyboard.u
-key_key.cgm.attachments:key.keyboard.z
 key_pneumaticcraft.armor.options:key.keyboard.u
 key_pneumaticcraft.helmet.hack:key.keyboard.h
 key_pneumaticcraft.helmet.debugging.drone:key.keyboard.y
 key_pneumaticcraft.boots.kick:key.keyboard.x:CONTROL
 key_pneumaticcraft.chestplate.launcher:key.keyboard.c:CONTROL
+key_key.cgm.reload:key.keyboard.r
+key_key.cgm.unload:key.keyboard.u
+key_key.cgm.attachments:key.keyboard.z
 key_key.integrateddynamics.logic_programmer_focus_search:key.keyboard.f:ALT
 key_key.integrateddynamics.logic_programmer_open_rename:key.keyboard.r:ALT
 key_Open sound muffle screen:key.keyboard.unknown
 key_cos.key.opencosarmorinventory:key.keyboard.unknown
-key_key.astralsorcery.disable_perk_abilities:key.keyboard.v
 key_key.buildinggadgets.settings_menu:key.keyboard.g
 key_key.buildinggadgets.range:key.keyboard.r
 key_key.buildinggadgets.undo:key.keyboard.u
@@ -188,6 +190,7 @@ key_key.buildinggadgets.fuzzy:key.keyboard.unknown
 key_key.buildinggadgets.connected_area:key.keyboard.unknown
 key_key.buildinggadgets.rotate_mirror:key.keyboard.unknown
 key_key.buildinggadgets.material_list:key.keyboard.m
+key_key.astralsorcery.disable_perk_abilities:key.keyboard.v
 key_keys.vampirism.action:key.keyboard.r
 key_keys.vampirism.suck:key.keyboard.v
 key_keys.vampirism.select_skills:key.keyboard.p
@@ -197,36 +200,26 @@ key_keys.vampirism.action2:key.keyboard.2:ALT
 key_keys.vampirism.minion_task:key.keyboard.unknown
 key_key.cofh.mode_change_increment:key.keyboard.v
 key_Open the Crash Utilities Screen:key.keyboard.u:CONTROL
-key_Copy the class of the current container to the clipboard:key.keyboard.unknown
-key_Show/Hide index of container slots as tooltip:key.keyboard.unknown
+key_Copy Container Class:key.keyboard.unknown
+key_Show Slot Index Tooltips:key.keyboard.unknown
 key_key.mekanismadditions.voice:key.keyboard.u
 key_key.vehicle.horn:key.keyboard.h
 key_key.vehicle.cycle_seats:key.keyboard.c
 key_key.spartanweaponry.access_quiver:key.keyboard.i
-key_key.inventorysorter.itemout:key.mouse.102
 key_key.inventorysorter.itemin:key.mouse.100
 key_key.inventorysorter.sort:key.mouse.middle
+key_key.inventorysorter.itemout:key.mouse.102
 key_key.toggle_focus.desc:key.keyboard.tab
 key_key.openManual:key.keyboard.f1
 key_key.nextDestination:key.keyboard.right.bracket
 key_key.prevDestination:key.keyboard.left.bracket
-key_mininggadgets.text.open_gui:key.keyboard.unknown
 key_key.toastcontrol.clear:key.keyboard.j
-key_create.keyinfo.toolmenu:key.keyboard.left.alt
+key_mininggadgets.text.open_gui:key.keyboard.unknown
 key_bloodmagic.keybind.cycle_holding_pos:key.keyboard.unknown
 key_bloodmagic.keybind.cycle_holding_neg:key.keyboard.unknown
+key_quark.keybind.back:key.mouse.4
 key_quark.keybind.sort_player:key.keyboard.unknown
 key_quark.keybind.sort_container:key.keyboard.unknown
-key_quark.keybind.back:key.mouse.4
-key_quark.keybind.camera_mode:key.keyboard.f12
-key_quark.keybind.lock_rotation:key.keyboard.k
-key_quark.keybind.autorun:key.keyboard.caps.lock
-key_quark.keybind.transfer_insert:key.keyboard.unknown
-key_quark.keybind.transfer_extract:key.keyboard.unknown
-key_quark.keybind.shift_lock:key.keyboard.unknown
-key_key.inventoryhud.toggle:key.keyboard.i
-key_key.inventoryhud.openconfig:key.keyboard.o
-key_quark.keybind.change_hotbar:key.keyboard.z
 key_quark.emote.no:key.keyboard.unknown
 key_quark.emote.yes:key.keyboard.unknown
 key_quark.emote.wave:key.keyboard.unknown
@@ -245,9 +238,18 @@ key_quark.keybind.patreon_emote.dab:key.keyboard.unknown
 key_quark.keybind.patreon_emote.jet:key.keyboard.unknown
 key_quark.keybind.patreon_emote.exorcist:key.keyboard.unknown
 key_quark.keybind.patreon_emote.zombie:key.keyboard.unknown
+key_quark.keybind.transfer_insert:key.keyboard.unknown
+key_quark.keybind.transfer_extract:key.keyboard.unknown
+key_quark.keybind.shift_lock:key.keyboard.unknown
+key_quark.keybind.lock_rotation:key.keyboard.k
+key_key.inventoryhud.toggle:key.keyboard.i
+key_key.inventoryhud.openconfig:key.keyboard.o
+key_quark.keybind.change_hotbar:key.keyboard.z
+key_quark.keybind.camera_mode:key.keyboard.f12
+key_key.refinedstorageaddons.openWirelessCraftingGrid:key.keyboard.g:CONTROL
 key_key.spellbookopen:key.keyboard.z
 key_key.gui-key-modifier:key.keyboard.left.control
-key_key.refinedstorageaddons.openWirelessCraftingGrid:key.keyboard.g:CONTROL
+key_quark.keybind.autorun:key.keyboard.caps.lock
 key_mod.chiselsandbits.chiselmode.single:key.keyboard.unknown
 key_mod.chiselsandbits.chiselmode.snap2:key.keyboard.unknown
 key_mod.chiselsandbits.chiselmode.snap4:key.keyboard.unknown
@@ -276,6 +278,7 @@ key_mod.chiselsandbits.other.offgrid:key.keyboard.unknown
 key_mod.chiselsandbits.other.undo:key.keyboard.unknown
 key_mod.chiselsandbits.other.redo:key.keyboard.unknown
 key_mod.chiselsandbits.other.add_to_clipboard:key.keyboard.unknown
+key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_keybind.xreliquary.fortune_coin:key.keyboard.unknown
 key_pneumaticcraft.armor.upgrade.core_components:key.keyboard.unknown
 key_pneumaticcraft.armor.upgrade.block_tracker:key.keyboard.unknown
@@ -341,6 +344,8 @@ key_key.jei.showUses:key.keyboard.u
 key_key.jei.recipeBack:key.keyboard.backspace
 key_key.jei.previousPage:key.keyboard.page.up
 key_key.jei.nextPage:key.keyboard.page.down
+key_key.jei.previousCategory:key.keyboard.page.up:SHIFT
+key_key.jei.nextCategory:key.keyboard.page.down:SHIFT
 key_key.jei.bookmark:key.keyboard.a
 key_key.jei.toggleBookmarkOverlay:key.keyboard.unknown
 soundCategory_master:1.0

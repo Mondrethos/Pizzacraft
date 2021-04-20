@@ -1,126 +1,125 @@
-[23:03:46] [INFO] SourceFile:407: Loaded script server_scripts:angelring.js in 0.003 s
-[23:03:46] [INFO] SourceFile:407: Loaded script server_scripts:rbee_recipes.js in 0.005 s
-[23:03:46] [INFO] server_scripts:script.js:8: Hello, World! (You will see this line every time server resources reload)
-[23:03:46] [INFO] SourceFile:407: Loaded script server_scripts:script.js in 0.004 s
-[23:03:46] [INFO] SourceFile:407: Loaded 3/3 KubeJS server scripts in 0.016 s
-[23:03:46] [INFO] Scripts loaded
-[23:03:46] [INFO] Scanning recipes...
-[23:03:49] [INFO] [blocks] Found 1086 tags, added 0 objects, removed 0 objects
-[23:03:49] [INFO] [items] Found 2765 tags, added 0 objects, removed 0 objects
-[23:03:49] [INFO] [fluids] Found 59 tags, added 0 objects, removed 0 objects
-[23:03:49] [INFO] [entity_types] Found 48 tags, added 0 objects, removed 0 objects
-[23:03:49] [INFO] [tunnel_types] Found 0 tags, added 0 objects, removed 0 objects
-[23:03:49] [INFO] [recipe_layer_serializers] Found 0 tags, added 0 objects, removed 0 objects
-[23:03:49] [INFO] [potions] Found 0 tags, added 0 objects, removed 0 objects
-[23:03:49] [INFO] [pigments] Found 0 tags, added 0 objects, removed 0 objects
-[23:03:49] [INFO] [tile_entity_types] Found 3 tags, added 0 objects, removed 0 objects
-[23:03:49] [INFO] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
-[23:03:49] [INFO] [slurries] Found 2 tags, added 0 objects, removed 0 objects
-[23:03:49] [INFO] [infuse_types] Found 8 tags, added 0 objects, removed 0 objects
-[23:03:49] [INFO] [gases] Found 5 tags, added 0 objects, removed 0 objects
-[23:03:49] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_zombie_pigman_seeds[thermal:insolator]': {"item":"mysticalagriculture:zombie_pigman_seeds"} is not a valid ingredient!
-[23:03:49] [WARN] Failed to parse recipe 'betterwithminecolonies:blocks_of_things/morecharcoal_to_coal_blocks[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'morecharcoal:charcoal_block'
-[23:03:49] [WARN] Failed to parse recipe betterwithminecolonies:blocks_of_things/morecharcoal_to_coal_blocks[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'morecharcoal:charcoal_block'
-[23:03:50] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_phantom_seeds[thermal:insolator]': {"item":"mysticalagriculture:phantom_seeds"} is not a valid ingredient!
-[23:03:50] [WARN] Failed to parse recipe 'rats:dragon_wing_iaf[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'iceandfire:dragon_bone'
-[23:03:50] [WARN] Failed to parse recipe rats:dragon_wing_iaf[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item tag 'iceandfire:dragon_bone'
-[23:03:50] [WARN] Failed to parse recipe 'betterwithminecolonies:simple_diving_gear/diving_helmet[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'simpledivegear:divehelmet'
-[23:03:50] [WARN] Failed to parse recipe betterwithminecolonies:simple_diving_gear/diving_helmet[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'simpledivegear:divehelmet'
-[23:03:50] [WARN] Failed to parse recipe 'absentbydesign:stairs_smooth_stone_sc[minecraft:stonecutting]': "absentbydesign:smooth_stone" is not a valid result!
-[23:03:50] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_villager_seeds[thermal:insolator]': {"item":"mysticalagriculture:villager_seeds"} is not a valid ingredient!
-[23:03:50] [WARN] Failed to parse recipe 'betterwithminecolonies:blocks_of_things/vanillatweakscharcoal_to_coal_blocks[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'vanillatweaks:charcoalblock'
-[23:03:50] [WARN] Failed to parse recipe betterwithminecolonies:blocks_of_things/vanillatweakscharcoal_to_coal_blocks[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'vanillatweaks:charcoalblock'
-[23:03:50] [WARN] Failed to parse recipe 'pedestals:pedestal_quarryadvanced/respawn_anchor[pedestals:pedestal_quarryadvanced]'! Falling back to vanilla: Unknown recipe type!
-[23:03:50] [WARN] Failed to parse recipe pedestals:pedestal_quarryadvanced/respawn_anchor[pedestals:pedestal_quarryadvanced]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'pedestals:pedestal_quarryadvanced'
-[23:03:50] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_wolf_seeds[thermal:insolator]': {"item":"mysticalagriculture:wolf_seeds"} is not a valid ingredient!
-[23:03:50] [WARN] Failed to parse recipe 'vehicle:boost_pad[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'vehicle:boost_pad'
-[23:03:50] [WARN] Failed to parse recipe vehicle:boost_pad[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'vehicle:boost_pad'
-[23:03:50] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_polar_bear_seeds[thermal:insolator]': {"item":"mysticalagriculture:polar_bear_seeds"} is not a valid ingredient!
-[23:03:50] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_llama_seeds[thermal:insolator]': {"item":"mysticalagriculture:llama_seeds"} is not a valid ingredient!
-[23:03:50] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_stray_seeds[thermal:insolator]': {"item":"mysticalagriculture:stray_seeds"} is not a valid ingredient!
-[23:03:50] [WARN] Failed to parse recipe 'thermal:compat/simplefarming/insolator_simplefarming_pea_seeds[thermal:insolator]': {"item":"simplefarming:pea","chance":2.0} is not a valid result!
-[23:03:50] [WARN] Failed to parse recipe 'betterwithminecolonies:blocks_of_things/charcoal_to_coal_blocks[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'charcoalblock:charcoal_block'
-[23:03:50] [WARN] Failed to parse recipe betterwithminecolonies:blocks_of_things/charcoal_to_coal_blocks[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'charcoalblock:charcoal_block'
-[23:03:50] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_vex_seeds[thermal:insolator]': {"item":"mysticalagriculture:vex_seeds"} is not a valid ingredient!
-[23:03:50] [WARN] Failed to parse recipe 'vehicle:steep_boost_ramp[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'vehicle:boost_pad'
-[23:03:50] [WARN] Failed to parse recipe vehicle:steep_boost_ramp[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'vehicle:boost_pad'
-[23:03:50] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_evoker_seeds[thermal:insolator]': {"item":"mysticalagriculture:evoker_seeds"} is not a valid ingredient!
-[23:03:50] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_magma_cube_seeds[thermal:insolator]': {"item":"mysticalagriculture:magma_cube_seeds"} is not a valid ingredient!
-[23:03:50] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_drowned_seeds[thermal:insolator]': {"item":"mysticalagriculture:drowned_seeds"} is not a valid ingredient!
-[23:03:50] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_dolphin_seeds[thermal:insolator]': {"item":"mysticalagriculture:dolphin_seeds"} is not a valid ingredient!
-[23:03:50] [WARN] Failed to parse recipe 'thermal:compat/astralsorcery/pulverizer_astralsorcery_aquamarine_ore[thermal:pulverizer]': {"item":"astralsorcery:aquarmarine_sand_ore"} is not a valid ingredient!
-[23:03:50] [WARN] Failed to parse recipe 'botanytrees:pamhc2trees/maple_sapling[botanypots:crop]'! Falling back to vanilla: com.google.gson.JsonParseException: Could not find minecraft:block with ID pamhc2trees:maplesyrup_sapling
-[23:03:50] [WARN] Failed to parse recipe botanytrees:pamhc2trees/maple_sapling[botanypots:crop]: com.google.gson.JsonParseException: Could not find minecraft:block with ID pamhc2trees:maplesyrup_sapling
-[23:03:50] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_husk_seeds[thermal:insolator]': {"item":"mysticalagriculture:husk_seeds"} is not a valid ingredient!
-[23:03:50] [WARN] Failed to parse recipe 'pedestals:pedestal_quarryblacklistblock/spawner[pedestals:pedestal_quarryblacklistblock]'! Falling back to vanilla: Unknown recipe type!
-[23:03:50] [WARN] Failed to parse recipe pedestals:pedestal_quarryblacklistblock/spawner[pedestals:pedestal_quarryblacklistblock]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'pedestals:pedestal_quarryblacklistblock'
-[23:03:50] [WARN] Failed to parse recipe 'pamhc2foodextended:cottoncandyitem[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodextended:cottoncandyitem'
-[23:03:50] [WARN] Failed to parse recipe pamhc2foodextended:cottoncandyitem[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodextended:cottoncandyitem'
-[23:03:50] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_panda_seeds[thermal:insolator]': {"item":"mysticalagriculture:panda_seeds"} is not a valid ingredient!
-[23:03:50] [WARN] Failed to parse recipe 'cfm:craft_sofa[vehicle:crafting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid vehicle entity: vehicle:sofa
-[23:03:50] [WARN] Failed to parse recipe cfm:craft_sofa[vehicle:crafting]: com.google.gson.JsonSyntaxException: Invalid vehicle entity: vehicle:sofa
-[23:03:50] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_vindicator_seeds[thermal:insolator]': {"item":"mysticalagriculture:vindicator_seeds"} is not a valid ingredient!
-[23:03:50] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_shulker_seeds[thermal:insolator]': {"item":"mysticalagriculture:shulker_seeds"} is not a valid ingredient!
-[23:03:50] [WARN] Failed to parse recipe 'thermal:compat/simplefarming/insolator_simplefarming_cherry_sapling[thermal:insolator]': {"item":"simplefarming:cherry","chance":4.0} is not a valid result!
-[23:03:50] [WARN] Failed to parse recipe 'thermal:compat/simplefarming/insolator_simplefarming_grape_seeds[thermal:insolator]': {"item":"simplefarming:grape","chance":2.0} is not a valid result!
-[23:03:50] [WARN] Failed to parse recipe 'botanytrees:evilcraft/undead[botanypots:crop]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:undead_log'
-[23:03:50] [WARN] Failed to parse recipe botanytrees:evilcraft/undead[botanypots:crop]: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:undead_log'
-[23:03:50] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_ravager_seeds[thermal:insolator]': {"item":"mysticalagriculture:ravager_seeds"} is not a valid ingredient!
-[23:03:50] [WARN] Failed to parse recipe pedestals:pedestal_quarryadvanced/lodestone[pedestals:pedestal_quarryadvanced]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'pedestals:pedestal_quarryadvanced'
-[23:03:50] [WARN] Failed to parse recipe 'pedestals:pedestal_quarryadvanced/lodestone[pedestals:pedestal_quarryadvanced]'! Falling back to vanilla: Unknown recipe type!
-[23:03:50] [WARN] Failed to parse recipe 'thermal:compat/simplefarming/insolator_simplefarming_olive_sapling[thermal:insolator]': {"item":"simplefarming:olive","chance":4.0} is not a valid result!
-[23:03:50] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_guardian_seeds[thermal:insolator]': {"item":"mysticalagriculture:guardian_seeds"} is not a valid ingredient!
-[23:03:50] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_mooshroom_seeds[thermal:insolator]': {"item":"mysticalagriculture:mooshroom_seeds"} is not a valid ingredient!
-[23:03:50] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_horse_seeds[thermal:insolator]': {"item":"mysticalagriculture:horse_seeds"} is not a valid ingredient!
-[23:03:50] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_silverfish_seeds[thermal:insolator]': {"item":"mysticalagriculture:silverfish_seeds"} is not a valid ingredient!
-[23:03:50] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_fox_seeds[thermal:insolator]': {"item":"mysticalagriculture:fox_seeds"} is not a valid ingredient!
-[23:03:50] [WARN] Failed to parse recipe 'druidcraft:crops/hemp_seeds[botanypots:crop]'! Falling back to vanilla: com.google.gson.JsonParseException: Could not find minecraft:block with ID druidcraft:hemp_seeds
-[23:03:50] [WARN] Failed to parse recipe druidcraft:crops/hemp_seeds[botanypots:crop]: com.google.gson.JsonParseException: Could not find minecraft:block with ID druidcraft:hemp_seeds
-[23:03:50] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_endermite_seeds[thermal:insolator]': {"item":"mysticalagriculture:endermite_seeds"} is not a valid ingredient!
-[23:03:50] [WARN] Failed to parse recipe 'betterwithminecolonies:blocks_of_things/wtbwcharcoal_to_coal_blocks[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'wtbw_core:charcoal_block'
-[23:03:50] [WARN] Failed to parse recipe betterwithminecolonies:blocks_of_things/wtbwcharcoal_to_coal_blocks[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'wtbw_core:charcoal_block'
-[23:03:50] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_witch_seeds[thermal:insolator]': {"item":"mysticalagriculture:witch_seeds"} is not a valid ingredient!
-[23:03:50] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_pillager_seeds[thermal:insolator]': {"item":"mysticalagriculture:pillager_seeds"} is not a valid ingredient!
-[23:03:50] [WARN] Failed to parse recipe 'vehicle:boost_ramp[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'vehicle:boost_pad'
-[23:03:50] [WARN] Failed to parse recipe vehicle:boost_ramp[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'vehicle:boost_pad'
-[23:03:51] [WARN] Failed to parse recipe 'thermal:compat/simplefarming/insolator_simplefarming_kenaf_seeds[thermal:insolator]': {"item":"simplefarming:kenaf","chance":2.0} is not a valid result!
-[23:03:51] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_parrot_seeds[thermal:insolator]': {"item":"mysticalagriculture:parrot_seeds"} is not a valid ingredient!
-[23:03:51] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_cat_seeds[thermal:insolator]': {"item":"mysticalagriculture:cat_seeds"} is not a valid ingredient!
-[23:03:51] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_bat_seeds[thermal:insolator]': {"item":"mysticalagriculture:bat_seeds"} is not a valid ingredient!
-[23:03:51] [INFO] server_scripts:angelring.js:3: - angelring:itemring[minecraft:crafting_shaped]: ['minecraft:feather', 'angelring:itemdiamondring', 'minecraft:gold_block', 'minecraft:blaze_rod'] -> ['angelring:itemring']
-[23:03:51] [INFO] server_scripts:angelring.js:9: + minecraft:crafting_shaped: ['botania:terrasteel_ingot', 'astralsorcery:starmetal_ingot', 'angelring:itemdiamondring', '#forge:nether_stars', '#forge:ingots/steel', 'mana-and-artifice:purified_vinteum_ingot', '#forge:storage_blocks/gold'] -> ['angelring:itemring']
-[23:03:51] [INFO] server_scripts:rbee_recipes.js:6: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb'] -> [Item.of('minecraft:red_dye', 6)]
-[23:03:51] [INFO] server_scripts:rbee_recipes.js:18: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb_block'] -> [Item.of('minecraft:red_dye', 54)]
-[23:03:51] [INFO] server_scripts:rbee_recipes.js:6: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb'] -> [Item.of('minecraft:green_dye', 6)]
-[23:03:51] [INFO] server_scripts:rbee_recipes.js:18: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb_block'] -> [Item.of('minecraft:green_dye', 54)]
-[23:03:51] [INFO] server_scripts:rbee_recipes.js:6: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb'] -> [Item.of('minecraft:purple_dye', 6)]
-[23:03:51] [INFO] server_scripts:rbee_recipes.js:18: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb_block'] -> [Item.of('minecraft:purple_dye', 54)]
-[23:03:51] [INFO] server_scripts:rbee_recipes.js:6: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb'] -> [Item.of('minecraft:cyan_dye', 6)]
-[23:03:51] [INFO] server_scripts:rbee_recipes.js:18: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb_block'] -> [Item.of('minecraft:cyan_dye', 54)]
-[23:03:51] [INFO] server_scripts:rbee_recipes.js:6: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb'] -> [Item.of('minecraft:light_gray_dye', 6)]
-[23:03:51] [INFO] server_scripts:rbee_recipes.js:18: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb_block'] -> [Item.of('minecraft:light_gray_dye', 54)]
-[23:03:51] [INFO] server_scripts:rbee_recipes.js:6: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb'] -> [Item.of('minecraft:gray_dye', 6)]
-[23:03:51] [INFO] server_scripts:rbee_recipes.js:18: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb_block'] -> [Item.of('minecraft:gray_dye', 54)]
-[23:03:51] [INFO] server_scripts:rbee_recipes.js:6: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb'] -> [Item.of('minecraft:pink_dye', 6)]
-[23:03:51] [INFO] server_scripts:rbee_recipes.js:18: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb_block'] -> [Item.of('minecraft:pink_dye', 54)]
-[23:03:51] [INFO] server_scripts:rbee_recipes.js:6: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb'] -> [Item.of('minecraft:lime_dye', 6)]
-[23:03:51] [INFO] server_scripts:rbee_recipes.js:18: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb_block'] -> [Item.of('minecraft:lime_dye', 54)]
-[23:03:51] [INFO] server_scripts:rbee_recipes.js:6: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb'] -> [Item.of('minecraft:yellow_dye', 6)]
-[23:03:51] [INFO] server_scripts:rbee_recipes.js:18: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb_block'] -> [Item.of('minecraft:yellow_dye', 54)]
-[23:03:51] [INFO] server_scripts:rbee_recipes.js:6: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb'] -> [Item.of('minecraft:light_blue_dye', 6)]
-[23:03:51] [INFO] server_scripts:rbee_recipes.js:18: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb_block'] -> [Item.of('minecraft:light_blue_dye', 54)]
-[23:03:51] [INFO] server_scripts:rbee_recipes.js:6: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb'] -> [Item.of('minecraft:magenta_dye', 6)]
-[23:03:51] [INFO] server_scripts:rbee_recipes.js:18: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb_block'] -> [Item.of('minecraft:magenta_dye', 54)]
-[23:03:51] [INFO] server_scripts:rbee_recipes.js:6: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb'] -> [Item.of('minecraft:orange_dye', 6)]
-[23:03:51] [INFO] server_scripts:rbee_recipes.js:18: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb_block'] -> [Item.of('minecraft:orange_dye', 54)]
-[23:03:51] [INFO] server_scripts:rbee_recipes.js:6: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb'] -> [Item.of('minecraft:blue_dye', 6)]
-[23:03:51] [INFO] server_scripts:rbee_recipes.js:18: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb_block'] -> [Item.of('minecraft:blue_dye', 54)]
-[23:03:51] [INFO] server_scripts:rbee_recipes.js:6: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb'] -> [Item.of('minecraft:brown_dye', 6)]
-[23:03:51] [INFO] server_scripts:rbee_recipes.js:18: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb_block'] -> [Item.of('minecraft:brown_dye', 54)]
-[23:03:51] [INFO] server_scripts:rbee_recipes.js:6: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb'] -> [Item.of('minecraft:black_dye', 6)]
-[23:03:51] [INFO] server_scripts:rbee_recipes.js:18: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb_block'] -> [Item.of('minecraft:black_dye', 54)]
-[23:03:51] [INFO] server_scripts:rbee_recipes.js:6: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb'] -> [Item.of('minecraft:white_dye', 6)]
-[23:03:51] [INFO] server_scripts:rbee_recipes.js:18: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb_block'] -> [Item.of('minecraft:white_dye', 54)]
-[23:03:51] [WARN] Error parsing recipe immersivepetroleum:distillationtower/oilcracking[immersivepetroleum:distillation]: {"type":"immersivepetroleum:distillation","byproducts":[{"item":"immersivepetroleum:bitumen"}],"results":[{"fluid":"immersivepetroleum:lubricant","amount":9},{"fluid":"immersivepetroleum:diesel","amount":27},{"fluid":"immersivepetroleum:gasoline","amount":39}],"input":{"tag":"forge:crude_oil","amount":75},"energy":2048}: java.lang.IllegalArgumentException: Unexpected json object.
-[23:03:54] [INFO] [functions] Found 0 tags, added 0 objects, removed 0 objects
-[23:03:56] [INFO] [il_tags/elementalcraft_runes] Found 3 tags, added 0 objects, removed 0 objects
+[10:15:50] [INFO] Loaded script server_scripts:angelring.js in 0.007 s
+[10:15:50] [INFO] Loaded script server_scripts:rbee_recipes.js in 0.01 s
+[10:15:50] [INFO] Hello, World! (You will see this line every time server resources reload)
+[10:15:50] [INFO] Loaded 3/3 KubeJS server scripts in 0.03 s
+[10:15:50] [INFO] Loaded script server_scripts:script.js in 0.004 s
+[10:15:50] [INFO] Scripts loaded
+[10:15:50] [INFO] Scanning recipes...
+[10:15:58] [INFO] [blocks] Found 1114 tags, added 0 objects, removed 0 objects
+[10:15:58] [INFO] [items] Found 2880 tags, added 0 objects, removed 0 objects
+[10:15:58] [INFO] [fluids] Found 57 tags, added 0 objects, removed 0 objects
+[10:15:58] [INFO] [entity_types] Found 49 tags, added 0 objects, removed 0 objects
+[10:15:58] [INFO] [tunnel_types] Found 0 tags, added 0 objects, removed 0 objects
+[10:15:58] [INFO] [recipe_components] Found 0 tags, added 0 objects, removed 0 objects
+[10:15:58] [INFO] [potions] Found 0 tags, added 0 objects, removed 0 objects
+[10:15:58] [INFO] [pigments] Found 0 tags, added 0 objects, removed 0 objects
+[10:15:58] [INFO] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
+[10:15:58] [INFO] [tile_entity_types] Found 3 tags, added 0 objects, removed 0 objects
+[10:15:58] [INFO] [slurries] Found 2 tags, added 0 objects, removed 0 objects
+[10:15:58] [INFO] [infuse_types] Found 8 tags, added 0 objects, removed 0 objects
+[10:15:58] [INFO] [gases] Found 5 tags, added 0 objects, removed 0 objects
+[10:15:58] [INFO] [recipe_layers] Found 0 tags, added 0 objects, removed 0 objects
+[10:15:58] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_zombie_pigman_seeds[thermal:insolator]': {"item":"mysticalagriculture:zombie_pigman_seeds"} is not a valid ingredient!
+[10:15:58] [WARN] Failed to parse recipe 'betterwithminecolonies:blocks_of_things/morecharcoal_to_coal_blocks[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'morecharcoal:charcoal_block'
+[10:15:58] [WARN] Failed to parse recipe betterwithminecolonies:blocks_of_things/morecharcoal_to_coal_blocks[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'morecharcoal:charcoal_block'
+[10:15:58] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_phantom_seeds[thermal:insolator]': {"item":"mysticalagriculture:phantom_seeds"} is not a valid ingredient!
+[10:15:58] [WARN] Failed to parse recipe 'rats:dragon_wing_iaf[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'iceandfire:dragon_bone'
+[10:15:58] [WARN] Failed to parse recipe rats:dragon_wing_iaf[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item tag 'iceandfire:dragon_bone'
+[10:15:58] [WARN] Failed to parse recipe 'betterwithminecolonies:simple_diving_gear/diving_helmet[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'simpledivegear:divehelmet'
+[10:15:58] [WARN] Failed to parse recipe betterwithminecolonies:simple_diving_gear/diving_helmet[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'simpledivegear:divehelmet'
+[10:15:58] [WARN] Failed to parse recipe 'absentbydesign:stairs_smooth_stone_sc[minecraft:stonecutting]': "absentbydesign:smooth_stone" is not a valid result!
+[10:15:58] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_villager_seeds[thermal:insolator]': {"item":"mysticalagriculture:villager_seeds"} is not a valid ingredient!
+[10:15:58] [WARN] Failed to parse recipe 'betterwithminecolonies:blocks_of_things/vanillatweakscharcoal_to_coal_blocks[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'vanillatweaks:charcoalblock'
+[10:15:58] [WARN] Failed to parse recipe betterwithminecolonies:blocks_of_things/vanillatweakscharcoal_to_coal_blocks[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'vanillatweaks:charcoalblock'
+[10:15:59] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_wolf_seeds[thermal:insolator]': {"item":"mysticalagriculture:wolf_seeds"} is not a valid ingredient!
+[10:15:59] [WARN] Failed to parse recipe 'vehicle:boost_pad[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'vehicle:boost_pad'
+[10:15:59] [WARN] Failed to parse recipe vehicle:boost_pad[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'vehicle:boost_pad'
+[10:15:59] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_polar_bear_seeds[thermal:insolator]': {"item":"mysticalagriculture:polar_bear_seeds"} is not a valid ingredient!
+[10:15:59] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_llama_seeds[thermal:insolator]': {"item":"mysticalagriculture:llama_seeds"} is not a valid ingredient!
+[10:15:59] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_stray_seeds[thermal:insolator]': {"item":"mysticalagriculture:stray_seeds"} is not a valid ingredient!
+[10:15:59] [WARN] Failed to parse recipe 'thermal:compat/simplefarming/insolator_simplefarming_pea_seeds[thermal:insolator]': {"item":"simplefarming:pea","chance":2.0} is not a valid result!
+[10:15:59] [WARN] Failed to parse recipe betterwithminecolonies:blocks_of_things/charcoal_to_coal_blocks[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'charcoalblock:charcoal_block'
+[10:15:59] [WARN] Failed to parse recipe 'betterwithminecolonies:blocks_of_things/charcoal_to_coal_blocks[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'charcoalblock:charcoal_block'
+[10:15:59] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_vex_seeds[thermal:insolator]': {"item":"mysticalagriculture:vex_seeds"} is not a valid ingredient!
+[10:15:59] [WARN] Failed to parse recipe 'vehicle:steep_boost_ramp[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'vehicle:boost_pad'
+[10:15:59] [WARN] Failed to parse recipe vehicle:steep_boost_ramp[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'vehicle:boost_pad'
+[10:15:59] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_evoker_seeds[thermal:insolator]': {"item":"mysticalagriculture:evoker_seeds"} is not a valid ingredient!
+[10:15:59] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_magma_cube_seeds[thermal:insolator]': {"item":"mysticalagriculture:magma_cube_seeds"} is not a valid ingredient!
+[10:15:59] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_drowned_seeds[thermal:insolator]': {"item":"mysticalagriculture:drowned_seeds"} is not a valid ingredient!
+[10:15:59] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_dolphin_seeds[thermal:insolator]': {"item":"mysticalagriculture:dolphin_seeds"} is not a valid ingredient!
+[10:15:59] [WARN] Failed to parse recipe 'thermal:compat/astralsorcery/pulverizer_astralsorcery_aquamarine_ore[thermal:pulverizer]': {"item":"astralsorcery:aquarmarine_sand_ore"} is not a valid ingredient!
+[10:15:59] [WARN] Failed to parse recipe 'dndmc:wooden_daggerr[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'dndmc:deleted_mod_element'
+[10:15:59] [WARN] Failed to parse recipe dndmc:wooden_daggerr[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'dndmc:deleted_mod_element'
+[10:15:59] [WARN] Failed to parse recipe 'pedestals:filter/clear_filterrestriction[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Pattern references symbol 'I' but it's not defined in the key
+[10:15:59] [WARN] Failed to parse recipe pedestals:filter/clear_filterrestriction[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Pattern references symbol 'I' but it's not defined in the key
+[10:15:59] [WARN] Failed to parse recipe 'botanytrees:pamhc2trees/maple_sapling[botanypots:crop]'! Falling back to vanilla: com.google.gson.JsonParseException: Could not find minecraft:block with ID pamhc2trees:maplesyrup_sapling
+[10:15:59] [WARN] Failed to parse recipe botanytrees:pamhc2trees/maple_sapling[botanypots:crop]: com.google.gson.JsonParseException: Could not find minecraft:block with ID pamhc2trees:maplesyrup_sapling
+[10:15:59] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_husk_seeds[thermal:insolator]': {"item":"mysticalagriculture:husk_seeds"} is not a valid ingredient!
+[10:15:59] [WARN] Failed to parse recipe 'pamhc2foodextended:cottoncandyitem[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodextended:cottoncandyitem'
+[10:15:59] [WARN] Failed to parse recipe pamhc2foodextended:cottoncandyitem[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodextended:cottoncandyitem'
+[10:15:59] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_panda_seeds[thermal:insolator]': {"item":"mysticalagriculture:panda_seeds"} is not a valid ingredient!
+[10:15:59] [WARN] Failed to parse recipe 'cfm:craft_sofa[vehicle:crafting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid vehicle entity: vehicle:sofa
+[10:15:59] [WARN] Failed to parse recipe cfm:craft_sofa[vehicle:crafting]: com.google.gson.JsonSyntaxException: Invalid vehicle entity: vehicle:sofa
+[10:15:59] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_vindicator_seeds[thermal:insolator]': {"item":"mysticalagriculture:vindicator_seeds"} is not a valid ingredient!
+[10:15:59] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_shulker_seeds[thermal:insolator]': {"item":"mysticalagriculture:shulker_seeds"} is not a valid ingredient!
+[10:15:59] [WARN] Failed to parse recipe 'thermal:compat/simplefarming/insolator_simplefarming_cherry_sapling[thermal:insolator]': {"item":"simplefarming:cherry","chance":4.0} is not a valid result!
+[10:15:59] [WARN] Failed to parse recipe 'thermal:compat/simplefarming/insolator_simplefarming_grape_seeds[thermal:insolator]': {"item":"simplefarming:grape","chance":2.0} is not a valid result!
+[10:15:59] [WARN] Failed to parse recipe 'botanytrees:evilcraft/undead[botanypots:crop]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:undead_log'
+[10:15:59] [WARN] Failed to parse recipe botanytrees:evilcraft/undead[botanypots:crop]: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:undead_log'
+[10:15:59] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_ravager_seeds[thermal:insolator]': {"item":"mysticalagriculture:ravager_seeds"} is not a valid ingredient!
+[10:15:59] [WARN] Failed to parse recipe 'thermal:compat/simplefarming/insolator_simplefarming_olive_sapling[thermal:insolator]': {"item":"simplefarming:olive","chance":4.0} is not a valid result!
+[10:15:59] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_guardian_seeds[thermal:insolator]': {"item":"mysticalagriculture:guardian_seeds"} is not a valid ingredient!
+[10:15:59] [WARN] Failed to parse recipe 'pamhc2foodextended:peachesandcreamoatmealitem[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:crop/peach'
+[10:15:59] [WARN] Failed to parse recipe pamhc2foodextended:peachesandcreamoatmealitem[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:crop/peach'
+[10:16:00] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_mooshroom_seeds[thermal:insolator]': {"item":"mysticalagriculture:mooshroom_seeds"} is not a valid ingredient!
+[10:16:00] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_horse_seeds[thermal:insolator]': {"item":"mysticalagriculture:horse_seeds"} is not a valid ingredient!
+[10:16:00] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_silverfish_seeds[thermal:insolator]': {"item":"mysticalagriculture:silverfish_seeds"} is not a valid ingredient!
+[10:16:00] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_fox_seeds[thermal:insolator]': {"item":"mysticalagriculture:fox_seeds"} is not a valid ingredient!
+[10:16:00] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_endermite_seeds[thermal:insolator]': {"item":"mysticalagriculture:endermite_seeds"} is not a valid ingredient!
+[10:16:00] [WARN] Failed to parse recipe 'betterwithminecolonies:blocks_of_things/wtbwcharcoal_to_coal_blocks[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'wtbw_core:charcoal_block'
+[10:16:00] [WARN] Failed to parse recipe betterwithminecolonies:blocks_of_things/wtbwcharcoal_to_coal_blocks[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'wtbw_core:charcoal_block'
+[10:16:00] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_witch_seeds[thermal:insolator]': {"item":"mysticalagriculture:witch_seeds"} is not a valid ingredient!
+[10:16:00] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_pillager_seeds[thermal:insolator]': {"item":"mysticalagriculture:pillager_seeds"} is not a valid ingredient!
+[10:16:00] [WARN] Failed to parse recipe 'vehicle:boost_ramp[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'vehicle:boost_pad'
+[10:16:00] [WARN] Failed to parse recipe vehicle:boost_ramp[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'vehicle:boost_pad'
+[10:16:00] [WARN] Failed to parse recipe 'thermal:compat/simplefarming/insolator_simplefarming_kenaf_seeds[thermal:insolator]': {"item":"simplefarming:kenaf","chance":2.0} is not a valid result!
+[10:16:00] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_parrot_seeds[thermal:insolator]': {"item":"mysticalagriculture:parrot_seeds"} is not a valid ingredient!
+[10:16:00] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_cat_seeds[thermal:insolator]': {"item":"mysticalagriculture:cat_seeds"} is not a valid ingredient!
+[10:16:00] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_bat_seeds[thermal:insolator]': {"item":"mysticalagriculture:bat_seeds"} is not a valid ingredient!
+[10:16:00] [INFO] server_scripts:angelring.js:3: - angelring:itemring[minecraft:crafting_shaped]: ['minecraft:feather', 'angelring:itemdiamondring', 'minecraft:gold_block', 'minecraft:blaze_rod'] -> ['angelring:itemring']
+[10:16:00] [INFO] server_scripts:angelring.js:9: + minecraft:crafting_shaped: ['botania:terrasteel_ingot', 'astralsorcery:starmetal_ingot', 'angelring:itemdiamondring', '#forge:nether_stars', '#forge:ingots/steel', 'mana-and-artifice:purified_vinteum_ingot', '#forge:storage_blocks/gold'] -> ['angelring:itemring']
+[10:16:00] [INFO] server_scripts:rbee_recipes.js:18: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb_block'] -> [Item.of('minecraft:red_dye', 54)]
+[10:16:00] [INFO] server_scripts:rbee_recipes.js:6: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb'] -> [Item.of('minecraft:red_dye', 6)]
+[10:16:00] [INFO] server_scripts:rbee_recipes.js:18: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb_block'] -> [Item.of('minecraft:green_dye', 54)]
+[10:16:00] [INFO] server_scripts:rbee_recipes.js:6: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb'] -> [Item.of('minecraft:green_dye', 6)]
+[10:16:00] [INFO] server_scripts:rbee_recipes.js:6: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb'] -> [Item.of('minecraft:purple_dye', 6)]
+[10:16:00] [INFO] server_scripts:rbee_recipes.js:18: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb_block'] -> [Item.of('minecraft:purple_dye', 54)]
+[10:16:00] [INFO] server_scripts:rbee_recipes.js:6: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb'] -> [Item.of('minecraft:cyan_dye', 6)]
+[10:16:00] [INFO] server_scripts:rbee_recipes.js:18: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb_block'] -> [Item.of('minecraft:cyan_dye', 54)]
+[10:16:00] [INFO] server_scripts:rbee_recipes.js:6: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb'] -> [Item.of('minecraft:light_gray_dye', 6)]
+[10:16:00] [INFO] server_scripts:rbee_recipes.js:18: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb_block'] -> [Item.of('minecraft:light_gray_dye', 54)]
+[10:16:00] [INFO] server_scripts:rbee_recipes.js:6: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb'] -> [Item.of('minecraft:gray_dye', 6)]
+[10:16:00] [INFO] server_scripts:rbee_recipes.js:18: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb_block'] -> [Item.of('minecraft:gray_dye', 54)]
+[10:16:00] [INFO] server_scripts:rbee_recipes.js:6: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb'] -> [Item.of('minecraft:pink_dye', 6)]
+[10:16:00] [INFO] server_scripts:rbee_recipes.js:18: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb_block'] -> [Item.of('minecraft:pink_dye', 54)]
+[10:16:00] [INFO] server_scripts:rbee_recipes.js:6: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb'] -> [Item.of('minecraft:lime_dye', 6)]
+[10:16:00] [INFO] server_scripts:rbee_recipes.js:18: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb_block'] -> [Item.of('minecraft:lime_dye', 54)]
+[10:16:00] [INFO] server_scripts:rbee_recipes.js:6: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb'] -> [Item.of('minecraft:yellow_dye', 6)]
+[10:16:00] [INFO] server_scripts:rbee_recipes.js:18: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb_block'] -> [Item.of('minecraft:yellow_dye', 54)]
+[10:16:00] [INFO] server_scripts:rbee_recipes.js:6: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb'] -> [Item.of('minecraft:light_blue_dye', 6)]
+[10:16:00] [INFO] server_scripts:rbee_recipes.js:18: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb_block'] -> [Item.of('minecraft:light_blue_dye', 54)]
+[10:16:00] [INFO] server_scripts:rbee_recipes.js:6: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb'] -> [Item.of('minecraft:magenta_dye', 6)]
+[10:16:00] [INFO] server_scripts:rbee_recipes.js:18: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb_block'] -> [Item.of('minecraft:magenta_dye', 54)]
+[10:16:00] [INFO] server_scripts:rbee_recipes.js:6: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb'] -> [Item.of('minecraft:orange_dye', 6)]
+[10:16:00] [INFO] server_scripts:rbee_recipes.js:18: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb_block'] -> [Item.of('minecraft:orange_dye', 54)]
+[10:16:00] [INFO] server_scripts:rbee_recipes.js:6: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb'] -> [Item.of('minecraft:blue_dye', 6)]
+[10:16:00] [INFO] server_scripts:rbee_recipes.js:18: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb_block'] -> [Item.of('minecraft:blue_dye', 54)]
+[10:16:00] [INFO] server_scripts:rbee_recipes.js:6: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb'] -> [Item.of('minecraft:brown_dye', 6)]
+[10:16:00] [INFO] server_scripts:rbee_recipes.js:18: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb_block'] -> [Item.of('minecraft:brown_dye', 54)]
+[10:16:00] [INFO] server_scripts:rbee_recipes.js:6: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb'] -> [Item.of('minecraft:black_dye', 6)]
+[10:16:00] [INFO] server_scripts:rbee_recipes.js:18: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb_block'] -> [Item.of('minecraft:black_dye', 54)]
+[10:16:00] [INFO] server_scripts:rbee_recipes.js:6: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb'] -> [Item.of('minecraft:white_dye', 6)]
+[10:16:00] [INFO] server_scripts:rbee_recipes.js:18: + cucumber:shaped_no_mirror: ['resourcefulbees:rgbee_honeycomb_block'] -> [Item.of('minecraft:white_dye', 54)]
+[10:16:00] [WARN] Error parsing recipe immersivepetroleum:distillationtower/oilcracking[immersivepetroleum:distillation]: {"type":"immersivepetroleum:distillation","byproducts":[{"item":"immersivepetroleum:bitumen"}],"results":[{"fluid":"immersivepetroleum:lubricant","amount":9},{"fluid":"immersivepetroleum:diesel","amount":27},{"fluid":"immersivepetroleum:gasoline","amount":39}],"input":{"tag":"forge:crude_oil","amount":75},"energy":2048}: java.lang.IllegalArgumentException: Unexpected json object.
+[10:16:05] [INFO] [functions] Found 0 tags, added 0 objects, removed 0 objects
+[10:16:08] [INFO] [il_tags/elementalcraft_runes] Found 3 tags, added 0 objects, removed 0 objects
